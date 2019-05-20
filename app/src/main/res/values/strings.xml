@@ -1,0 +1,107 @@
+<resources>
+    <string name="app_name">MovieCatalogue</string>
+
+    <string-array name="data_judul">
+        <item>A Star is Born</item>
+        <item>Aquaman</item>
+        <item>Avangers Infinity War</item>
+        <item>Birdbox</item>
+        <item>Bohemian Rhapsody</item>
+        <item>Bumblebee</item>
+        <item>Creed</item>
+        <item>Deadpool</item>
+        <item>How To Train Your Dragon 3</item>
+        <item>DragonBall Z Broly</item>
+        <item>Glasss</item>
+        <item>Hunter Killer</item>
+        <item>YONDU</item>
+        <item>Mortal Engine</item>
+        <item>Preman Pensiun</item>
+        <item>Robinhood</item>
+        <item>Spiderman Into The Spiderverse</item>
+        <item>The Girl</item>
+        <item>The Mule</item>
+        <item>Venom</item>
+
+    </string-array>
+    <string-array name="data_deskripsi">
+        <item>A musician helps a young singer find fame as age and alcoholism send his own career into a downward spiral.</item>
+        <item>Arthur Curry, the human-born heir to the underwater kingdom of Atlantis, goes on a quest to prevent a war between the worlds of ocean and land.</item>
+        <item>The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe.</item>
+        <item>Five years after an ominous unseen presence drives most of society to suicide, a mother and her two children make a desperate bid to reach safety.</item>
+        <item>The story of the legendary rock band Queen and lead singer Freddie Mercury, leading up to their famous performance at Live Aid (1985)</item>
+        <item>On the run in the year 1987, Bumblebee finds refuge in a junkyard in a small Californian beach town. Charlie, on the cusp of turning 18 and trying to find her place in the world, discovers Bumblebee, battle-scarred and broken. When Charlie revives him, she quickly learns this is no ordinary yellow VW bug.</item>
+        <item>The former World Heavyweight Champion Rocky Balboa serves as a trainer and mentor to Adonis Johnson, the son of his late friend and former rival Apollo Creed.</item>
+        <item>A wisecracking mercenary gets experimented on and becomes immortal but ugly, and sets out to track down the man who ruined his looks.</item>
+        <item>One year after the events of the previous film, Hiccup, Toothless and their fellow dragon-riders continue to rescue captured dragons in order to bring them to Berk and its bustling dragon and human utopia. </item>
+        <item>Forty-one years ago, the Saiyan homeworld Planet Vegeta is ruled by the forces of King Cold, who delegates their command to his son Frieza. King Vegeta, leader of the Saiyans, believes his son Prince Vegeta is a prodigy destined to liberate their people and rule the universe. He learns of Broly, a Saiyan baby born with an abnormal power level exceeding that of his son, and exiles Broly to the distant planet Vampa. Broly and his father Paragus, who goes after his son, are stranded on Vampa after their ships are damaged. Paragus vows to raise Broly as a mighty warrior to exact revenge on King Vegeta.</item>
+        <!--<item>11</item>-->
+        <!--<item>12</item>-->
+        <!--<item>13</item>-->
+        <!--<item>14</item>-->
+        <!--<item>15</item>-->
+        <!--<item>16</item>-->
+        <!--<item>17</item>-->
+        <!--<item>18</item>-->
+        <!--<item>19</item>-->
+        <!--<item>20</item>-->
+
+
+        <item>Security guard David Dunn uses his supernatural abilities to track Kevin Wendell Crumb, a disturbed man who has twenty-four personalities.</item>
+        <item>An untested American submarine captain teams with U.S. Navy Seals to rescue the Russian president, who has been kidnapped by a rogue general.</item>
+        <item>In turn of the century London, a magical nanny employs music and adventure to help two neglected children become closer to their father.</item>
+        <item>In a post-apocalyptic world where cities ride on wheels and consume each other to survive, two people meet in London and try to stop a conspiracy.</item>
+        <item>Setelah tiga tahun, bisnis kecimpring Muslihat (Epi Kusnandar) yang sudah pensiun sebagai preman, mengalami masalah. Penjualannya menurun. Muslihat juga menghadapi masalah baru saat Safira (Safira Maharani), anak perempuan satu-satunya, tumbuh remaja dan mulai didatangi lelaki. Masalah lebih besar: masalah di antara mantan anak buahnya.</item>
+        <item>A war-hardened Crusader and his Moorish commander mount an audacious revolt against the corrupt English crown.</item>
+        <item>Teen Miles Morales becomes Spider-Man of his reality, crossing his path with five counterparts from other dimensions to stop a threat for all realities.</item>
+        <item>Lara is a 15-year-old girl, born in the body of a boy, who dreams of becoming a ballerina.</item>
+        <item>A 90-year-old horticulturist and Korean War veteran turns drug mule for a Mexican cartel.</item>
+        <item>A failed reporter is bonded to an alien entity, one of many symbiotes who have invaded Earth. But the being takes a liking to Earth and decides to protect it.</item>
+
+    </string-array>
+    <string-array name="data_tanggalRilis">
+        <item>19 Oktober 2018</item>
+        <item>21 Desember 2018</item>
+        <item>25 April 2018</item>
+        <item>12 November 2018</item>
+        <item>27 Oktober 2018</item>
+        <item>19 Desember 2018 </item>
+        <item>28 November 2018</item>
+        <item>10 Februari 2016</item>
+        <item>9 Januari 2019</item>
+        <item>16 Februari 2019</item>
+        <item>16 Januari 2019</item>
+        <item>24 Oktober 2018</item>
+        <item>22 Desember 2018</item>
+        <item>13 Desember 2018</item>
+        <item>17 Januari 2019</item>
+        <item>20 November 2018</item>
+        <item>12 Desember 2018</item>
+        <item>12 Mei 2018</item>
+        <item>23 Januari 2019</item>
+        <item>3 Oktober 2018</item>
+    </string-array>
+    <array name="data_photo">
+        <item>@drawable/poster_a_star</item>
+        <item>@drawable/poster_aquaman</item>
+        <item>@drawable/poster_avengerinfinity</item>
+        <item>@drawable/poster_birdbox</item>
+        <item>@drawable/poster_bohemian</item>
+        <item>@drawable/poster_bumblebee</item>
+
+        <item>@drawable/poster_creed</item>
+        <item>@drawable/poster_deadpool</item>
+        <item>@drawable/poster_dragon</item>
+        <item>@drawable/poster_dragonball</item>
+        <item>@drawable/poster_glass</item>
+        <item>@drawable/poster_hunterkiller</item>
+        <item>@drawable/poster_marrypopins</item>
+        <item>@drawable/poster_mortalengine</item>
+        <item>@drawable/poster_preman</item>
+        <item>@drawable/poster_robinhood</item>
+        <item>@drawable/poster_spiderman</item>
+        <item>@drawable/poster_thegirl</item>
+        <item>@drawable/poster_themule</item>
+        <item>@drawable/poster_venom</item>
+    </array>
+</resources>
